@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tangkapparakoruptor.github.io/news/sitemap.xml
